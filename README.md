@@ -9,11 +9,11 @@
 
 ![forthebadge](http://forthebadge.com/images/badges/designed-in-ms-paint.svg)
 
-##Third Party Code
-WeifenLuo.
-SharpGL.
-Newtonsoft.json
-AssimpNet.
+## Third Party Code
+WeifenLuo.</br>
+SharpGL.</br>
+Newtonsoft.json</br>
+AssimpNet.</br>
 
 ## License </br>
 Copyright (C) 2023-2025 LiaoNing Yu Peng. All rights reserved.</br>
