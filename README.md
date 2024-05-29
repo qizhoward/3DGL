@@ -1,9 +1,14 @@
 # 3DGL
 3D程序
 
+## Screenshots
 ![20240528](https://github.com/qizhoward/3DGL/blob/main/20240528.png)
 
-# License: </br>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)]
+[![forthebadge](http://forthebadge.com/images/badges/designed-in-ms-paint.svg)]
+
+## License: </br>
 Copyright (C) 2023-2025 LiaoNing Yu Peng. All rights reserved.</br>
 Portions Copyright (C) 2000-2025 LiaoNing Yu Peng. All rights reserved.</br>
 
